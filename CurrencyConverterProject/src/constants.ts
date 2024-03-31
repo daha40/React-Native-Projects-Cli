@@ -50,7 +50,7 @@ export const currencyByDinarsDz: Currency[] = [
   {
     name: 'BITCOIN',
     value: 0.000000268722,
-    flag: '🎰',
+    flag: '💰',
     symbol: '₿',
   },
   {
@@ -62,7 +62,7 @@ export const currencyByDinarsDz: Currency[] = [
   {
     name: 'ETHEREUM',
     value: 0.00000456807,
-    flag: '🎰',
+    flag: '💰',
     symbol: 'Ξ',
   },
   {
