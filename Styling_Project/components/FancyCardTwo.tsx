@@ -8,7 +8,7 @@ export default function FancyCardTwo() {
       <View style={[styles.card , styles.ElevatedCard]}>
         <Image
         source={{
-          uri:'https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/The_Test_Garden_Hamma.jpg/1200px-The_Test_Garden_Hamma.jpg'
+          uri:''
         }}
         style={styles.imageCard}
         />

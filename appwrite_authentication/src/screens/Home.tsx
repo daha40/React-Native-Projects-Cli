@@ -45,7 +45,7 @@ const Home = () => {
       <View style={styles.welcomeContainer}>
         <Image
           source={{
-            uri: 'https://appwrite.io/images-ee/blog/og-private-beta.png',
+            uri: '',
             width: 400,
             height: 300,
             cache: 'default',
